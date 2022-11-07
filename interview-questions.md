@@ -51,12 +51,12 @@ Researched answer:
 
 Research and define the following terms to the best of your ability.
 
-1. User stories:
+1. User stories: Blueprint of features a software developer can offer to their users. fro example Googles search bar. Like a function, search bar feature loops through what it's ask and return specified information to the user. Google's software is designed to be dynaic, programmed to provide a continous resource for users looking for an provided condition.
 
-2. Spread operator:
+2. Spread operator: Represented as ..., sread operator can add elements into an array with having an array within an array.
 
-3. React:
+3. React: React is an component based JavaScript library. Developers can use those libraries to creat an project. Using components of REACT's library to create a project out of components.
 
-4. React props:
+4. React props: Props, short for properties, are a way to pass data to different components. Similiar to arguments in a function, props can not be altered.
 
-5. DOM events:
+5. DOM events: All elements on a HTML page has events that when triggered does something. JavaScript is used to access those events to do something.  
